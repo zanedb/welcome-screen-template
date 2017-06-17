@@ -5,7 +5,7 @@ Below are some assorted screenshots:
 ![Page 1 of the welcome slider](https://www.dropbox.com/s/a6i7kifa6tv0vh0/WST-Screenshot1.PNG?dl=1 "Page 1 of the welcome slider")
 ![Page 2 of the welcome slider](https://www.dropbox.com/s/mtobxxn9p5685xx/WST-Screenshot2.PNG?dl=1 "Page 2 of the welcome slider")
 ![Page 3 of the welcome slider](https://www.dropbox.com/s/drqvok42rz0b4g3/WST-Screenshot3.PNG?dl=1 "Page 3 of the welcome slider")
-![HomeActivity of app](https://www.dropbox.com/s/arufzyp0kq320hs/WST-Screenshot4.PNG?dl=0 "HomeActivity of app - add your content")
+![HomeActivity of app](https://www.dropbox.com/s/arufzyp0kq320hs/WST-Screenshot4.PNG?dl=1 "HomeActivity of app - add your content")
 ## Setting Up
 To set this up,
 * Edit the strings in `res/values/strings.xml`
